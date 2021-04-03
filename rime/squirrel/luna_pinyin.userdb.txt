@@ -1,0 +1,106 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	153
+#@/user_id	squirrel
+a 	阿	c=1 d=0.937067 t=153
+an jian 	按鍵	c=1 d=0.970446 t=153
+ban jin ba liang 	半斤八兩	c=1 d=1 t=135
+bao 	寶	c=1 d=0.941765 t=153
+bei fang 	北方	c=6 d=4.74913 t=153
+bi ao 	祕奧	c=0 d=0.0985112 t=153
+bi ao qu 	祕奧去	c=1 d=0.99005 t=153
+bian 	便	c=6 d=5.42634 t=153
+bian shi 	便是	c=2 d=1.99501 t=150
+biao qing 	表情	c=2 d=1.87311 t=153
+bing 	冰	c=6 d=5.02538 t=153
+bing tuo 	冰坨	c=4 d=3.65307 t=153
+bing zhao 	冰罩	c=2 d=1.91678 t=153
+bu yu 	捕魚	c=4 d=3.53708 t=153
+cao 	槽	c=1 d=0.895834 t=153
+cao 	艹	c=8 d=7.2892 t=153
+chan cha 	產茶	c=0 d=0.0937067 t=153
+cheng 	成	c=1 d=0.900325 t=153
+chuang shuo 	創說	c=1 d=0.88692 t=153
+da neng 	達能	c=1 d=1.02984 t=153
+da neng qi an 	達能奇案	c=1 d=0.932394 t=153
+da shen 	大神	c=8 d=6.22968 t=153
+da te 	打特	c=1 d=1 t=153
+dang qian 	當前	c=1 d=0.985112 t=153
+de 	的	c=4 d=3.15092 t=153
+di fang 	地方	c=2 d=1.59305 t=153
+di yu 	地域	c=6 d=4.81057 t=153
+dian 	點	c=1 d=1.07612 t=153
+dong cheng 	凍成	c=2 d=1.86013 t=153
+duan yu 	短語	c=1 d=1 t=153
+fan 	反	c=1 d=0.927743 t=153
+fang ge 	放個	c=2 d=1.88825 t=153
+fu zhu 	輔助	c=0 d=0.0856415 t=153
+fu zhu ma 	輔助碼	c=2 d=1.85572 t=153
+gong yi 	工藝	c=6 d=5.10883 t=153
+gu lao 	古老	c=6 d=4.77974 t=153
+han feng 	寒風	c=2 d=1.92639 t=153
+he 	和	c=2 d=1.65806 t=153
+hei long jiang 	黑龍江	c=6 d=4.83468 t=153
+hua hao yue yuan 	花好月圓	c=1 d=0.97531 t=153
+jia 	加	c=3 d=2.94062 t=153
+jian dan 	簡單	c=6 d=5.13443 t=153
+jian xiao 	奸笑	c=1 d=0.965605 t=153
+li 	裏	c=2 d=1.93605 t=153
+li mian 	裏面	c=2 d=1.90722 t=153
+li wang mi jia 	李王米佳	c=4 d=2.90331 t=153
+lia man 	倆慢	c=2 d=1.45594 t=153
+liu xing 	流行	c=6 d=4.70187 t=153
+ma 	碼	c=5 d=3.65634 t=153
+ma fan 	麻煩	c=1 d=0.891366 t=153
+mei dao 	每到	c=2 d=1.60103 t=153
+ni 	你	c=0 d=0.0937067 t=153
+pei zhi 	配置	c=2 d=1.73464 t=153
+pin yin 	拼音	c=1 d=0.873716 t=153
+qi an 	奇案	c=0 d=0.0927743 t=153
+qie huan 	切換	c=1 d=0.895834 t=153
+qu 	去	c=0 d=0.0985112 t=153
+ren men 	人們	c=2 d=1.61712 t=153
+san wu cheng qun 	三五成羣	c=6 d=4.91868 t=153
+sang 	桑	c=0 d=0.0937067 t=153
+sang chan cha ni 	桑產茶你	c=1 d=0.941765 t=153
+shi 	是	c=13 d=9.56318 t=153
+shi jian 	時間	c=1 d=0.99005 t=153
+shi jian chuo 	時間戳	c=1 d=0.946485 t=153
+shu chu 	輸出	c=1 d=0.980199 t=153
+shuang pin 	雙拼	c=1 d=0.904837 t=153
+shun 	順	c=0 d=0.0737123 t=153
+shun su du 	順速度	c=1 d=0.740818 t=153
+su du 	速度	c=0 d=0.0737123 t=153
+tai 	太	c=1 d=0.88692 t=153
+tong guo 	通過	c=1 d=0.97531 t=153
+wan 	完	c=1 d=0.995012 t=153
+wan 	玩	c=1 d=0.755784 t=153
+wan 	萬	c=1 d=0.99005 t=153
+wang 	李王米佳網	c=1 d=0.737123 t=153
+wang 	網	c=1 d=1 t=153
+wei 	爲	c=1 d=0.748264 t=153
+wei ma 	餵馬	c=6 d=4.97538 t=153
+wei ruan 	微軟	c=1 d=0.869358 t=153
+wen 	問	c=1 d=0.752014 t=153
+wen zi 	文字	c=1 d=0.955997 t=153
+wo 	我	c=7 d=5.98622 t=153
+wo cao 	我操	c=1 d=0.88692 t=153
+wo shi shui 	我是誰	c=1 d=0.970446 t=153
+wu 	無	c=1 d=0.744532 t=153
+xiao 	小	c=1 d=0.985112 t=153
+xiao yu 	小雨	c=0 d=0.0860708 t=153
+xiao yu dian 	小雨點	c=1 d=0.865022 t=153
+yan 	顏	c=1 d=0.951229 t=153
+yin hao 	引號	c=1 d=0.932394 t=153
+you deng 	油燈	c=2 d=1.89771 t=153
+you ran zi de 	悠然自得	c=6 d=4.95056 t=153
+yu 	於	c=4 d=3.0563 t=153
+yun 	暈	c=1 d=0.970446 t=153
+zao chu 	鑿出	c=2 d=1.87883 t=153
+zhe 	這	c=4 d=3.44086 t=153
+zhi 	之	c=2 d=1.89904 t=153
+zi ding yi 	自定義	c=1 d=0.878095 t=153
+zi ran 	自然	c=1 d=0.909373 t=153
+zong hui 	總會	c=2 d=1.99501 t=143

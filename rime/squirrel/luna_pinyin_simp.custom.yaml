@@ -1,0 +1,27 @@
+#  luna_pinyin_simp.custom.yaml
+# encoding: utf-8
+
+patch:
+  # 通过date而time输出当前得日期合时间
+  engine/translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - script_translator
+    - lua_translator@date_translator  # 日期时间变量输出
+  # emoji表情
+  switches/@next:
+    name: emoji_suggestion
+    reset: 1
+    states: [ "🈚️️\uFE0E", "🈶️️\uFE0F" ]
+  'engine/filters/@before 0':
+    simplifier@emoji_suggestion
+  emoji_suggestion:
+    opencc_config: emoji.json
+    option_name: emoji_suggestion
+    tips: all
+
+  # 载入朙月拼音扩充词库
+  "translator/dictionary": luna_pinyin.extended
+  # 改写拼音运算，使得含英文的字词（位于 luna_pinyin.cn_en.dict.yaml 中）不影响简拼功能（注意，此功能只适用于於朙月拼音系列方案，不适用于各类双拼方案）
+  # 本条补丁只在「小狼毫 0.9.30」、「鼠须管 0.9.25 」、「Rime-1.2」及更高的版本中起作用。
+  "speller/algebra/@before 0": xform/^([b-df-np-z])$/$1_/

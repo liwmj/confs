@@ -1,0 +1,123 @@
+# squirrel.custom.yaml
+# encoding: utf-8
+#
+# Rime 预置配色方案(主题、皮肤)
+# 注：预设的配色方案及代码（指定为 style/color_scheme ）
+# squirrel.yaml
+#   碧水 - aqua
+#   青天 - azure
+#   明月 - luna
+#   墨池 - ink
+#   孤寺 - lost_temple
+#   暗堂 - dark_temple
+#   星际我争霸 - starcraft
+#   谷歌 - google
+#   晒经石 - solarized_rock
+#   简约白 - clean_white (recommended)
+
+patch:
+  # us_keyboard_layout: true                        #键盘选项：应用美式键盘布局 
+  # show_notifications_when: growl_is_running       #狀態通知，默認裝有 Growl 時顯示，也可設爲全開（always）全關（never）
+    style/color_scheme: dark_temple                        # 选择配色方案
+    style/horizontal: true                          # 候选窗横向显示
+  # style/inline_preedit: false                     #关闭内嵌编码，这样就可以显示首行的拼音（MAC 下不建议开启）
+    style/corner_radius: 3                          # 窗口圆角半径
+    style/border_height: 4                          # 窗口边界高度，大于圆角半径才有效果
+    tyle/border_width: 4                            # 窗口边界宽度，大于圆角半径才有效果
+  # style/line_spacing: 1                           #候选词的行间距
+  # style/spacing: 5                                #在非内嵌编码模式下，预编辑和候选词之间的间距
+    style/font_face: "Lantinghei TC Extralight"     # 预选栏文字字体，使用中文字体：兰亭黑 - 纤黑
+    style/font_point: 17                            # 预选栏文字字号
+    style/label_font_face: "Myriad Pro Light"       # 预选栏编号字体，当前为 Monaco 使用默认西文字体：Myriad Pro Light
+    style/label_font_point: 17                      # 预选栏编号字号
+    # 上述是候选栏的基本设置，确定了文字的大小和候选栏的外观样式。
+    # 下面是“demo” 样式文件的配置，主要确定候选栏颜色配置。
+    # preset_color_schemes:
+    # label_color: 0xf2a45a                           # 预选栏编号颜色
+    # back_color: 0x333333                            # 背景颜色
+    # candidate_text_color: 0xb9b9b9                  # 非第一后选项文字颜色
+    # comment_text_color: 0xa5a5a5                    # 注解文字颜色
+    # hilited_candidate_back_color: 0x333333          # 第一后选项背景颜色
+    # hilited_candidate_text_color: 0xff7d00          # 第一后选项文字颜色
+    # hilited_comment_text_color: 0x00a5ea            # 注解文字高亮
+    # hilited_text_color: 0x7fffff                    # 拼音串高亮（需要开启内嵌编码）
+    # text_color: 0xa5a5a5                            # 拼音串颜色（需要开启内嵌编码）
+    # 一些要默认英文输入的 app
+    app_options/ch.sudo.cyberduck:
+        ascii_mode: true
+    app_options/com.runningwithcrayons.Alfred:
+        ascii_mode: true
+    app_options/com.sourcegear.DiffMerge:
+        ascii_mode: true
+    app_options/com.kapeli.dashdoc:
+        ascii_mode: true
+    app_options/com.jetbrains.datagrip:
+        ascii_mode: true
+    app_options/com.jetbrains.PhpStorm:
+        ascii_mode: true
+    app_options/com.jetbrains.pycharm:
+        ascii_mode: true
+    app_options/io.beekeeperstudio.desktop:
+        ascii_mode: true
+    app_options/com.bohemiancoding.sketch3:
+        ascii_mode: true
+    app_options/com.jetbrains.WebStorm:
+        ascii_mode: true
+    app_options/org.wireshark.Wireshark:
+        ascii_mode: true
+    app_options/com.velestar.vssh.osx:
+        ascii_mode: true
+    app_options/com.hnc.Discord:
+        ascii_mode: true
+    app_options/com.apptorium.Expressions:
+        ascii_mode: true
+    app_options/org.mozilla.firefox:
+        ascii_mode: true
+    app_options/com.DanPristupov.Fork:
+        ascii_mode: true
+    app_options/com.google.Chrome:
+        ascii_mode: true
+    app_options/com.tumult.Hype2:
+        ascii_mode: true
+    app_options/com.googlecode.iterm2:
+        ascii_mode: true
+    app_options/org.eclipse.platform.ide:
+        ascii_mode: true
+    app_options/com.apple.mail:
+        ascii_mode: true
+    app_options/com.apple.iChat:
+        ascii_mode: true
+    app_options/org.jkiss.dbeaver.core.product:
+        ascii_mode: true
+    app_options/com.initex.proxifier.macosx:
+        ascii_mode: true
+    app_options/com.happenapps.Quiver:
+        ascii_mode: true
+    app_options/com.apple.reminders:
+        ascii_mode: true
+    app_options/com.apple.Safari:
+        ascii_mode: true
+    app_options/org.cmake.cmake:
+        ascii_mode: true
+    app_options/com.tencent.webplusdevtools:
+        ascii_mode: true
+    app_options/com.skype.skype:
+        ascii_mode: true
+    app_options/com.daxunyun.serialport:
+        ascii_mode: true
+    app_options/com.google.android.studio:
+        ascii_mode: true
+    app_options/com.microsoft.VSCode:
+        ascii_mode: true
+    app_options/com.west2online.ClashX:
+        ascii_mode: true
+    app_options/com.teamviewer.TeamViewer:
+        ascii_mode: true
+    app_options/com.coteditor.CotEditor:
+        ascii_mode: true
+    app_options/org.qt-project.qtcreator:
+        ascii_mode: true
+    app_options/com.apple.Terminal:
+        ascii_mode: true
+    app_options/com.realvnc.vncviewer:
+        ascii_mode: true

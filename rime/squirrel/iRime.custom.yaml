@@ -1,0 +1,6 @@
+patch:
+  app_setting:
+    candidate_comment_type: 1
+    candidate_preedit_type: 1
+    impact_feedback: false
+    current_chinese_type: 2
